@@ -1,7 +1,7 @@
 {
-    "name": "Stranger Hack Bot",
+    "name": "Destroyers Hack Bot",
     "description": "A bot CAN DO ANYTHING Deployable on heroku made by SHIVANSH39",
-    "logo": "https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg",
+    "logo": "https://te.legra.ph/file/a9c788514f8dc6a1b7610.jpg",
     "keywords": [
         "TELETHON",
         "shivash op",
@@ -10,7 +10,7 @@
         "SHIVANSH39"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/SHIVANSH39",
+    "success_url": "https://telegram.dog/CODEX_MADARA",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
@@ -18,28 +18,28 @@
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": "462de3dfc98fd938ef9c6ee31a72d099"
+            "value": "6a448a1aef78ff8e776227c9ed9b3c18"
         },
         "SUDOERS": {
             "description": "PEOPLE WHO YOU WANT TO ADD ACCESS TO YOUR BOT",
-            "value": "6762113050 6919199044"
+            "value": "5805639231 5734659617"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": "29308061"
+            "value": "22639507"
         },
          "MONGO_URL": {
             "description": "MONGO DB URL ",
-            "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority"
+            "value": "mongodb+srv://Bullagc:ajinkiarahanr@cluster0.rwrlaj1.mongodb.net/?retryWrites=true&w=majority"
          },
           "LOG_GROUP_ID": {
             "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
-            "value": "-1001766825642"
+            "value": "-1002025766361"
           },
       
           "MUST_JOIN": {
-            "description": "FORCE SUBSCRIBE BOT EX - mastiwithfriendsx",
-            "value": "mastiwithfriendsx"
+            "description": "FORCE SUBSCRIBE BOT EX - TEAM_DST",
+            "value": "TEAM_DST"
         }
     }
 }
