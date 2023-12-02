@@ -1,6 +1,6 @@
 {
     "name": "Destroyers Hack Bot",
-    "description": "A bot CAN DO ANYTHING Deployable on heroku made by SHIVANSH39",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by CODEX_MADARA",
     "logo": "https://te.legra.ph/file/a9c788514f8dc6a1b7610.jpg",
     "keywords": [
         "TELETHON",
@@ -34,7 +34,7 @@
          },
           "LOG_GROUP_ID": {
             "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
-            "value": "-1002025766361"
+            "value": "1002025766361"
           },
       
           "MUST_JOIN": {
