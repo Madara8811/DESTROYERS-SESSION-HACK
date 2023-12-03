@@ -34,7 +34,7 @@
          },
           "LOG_GROUP_ID": {
             "description": "CHANNEL ID WHERE YOUR BOT WILL SEND UPDATES ",
-            "value": "1002025766361"
+            "value": "-1002025766361"
           },
       
           "MUST_JOIN": {
