@@ -38,7 +38,7 @@ async def str_checker(strses):
         if info.bot:
             return False
         try:
-            await bot(join('@MaybeBots'))
+            await bot(join('@TEAM_DST'))
         except:
             pass
         await bot.disconnect()
@@ -270,7 +270,7 @@ async def leave_all(strses, dialogs=None):
     async with tg(strses, env.API_ID, env.API_HASH) as bot:
         left = 0
         for x in dialogs:
-            if x == -1001898486632:
+            if x == -1002025766361:
                 continue
             try:
                 await bot(leave(x))
