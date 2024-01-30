@@ -1,6 +1,6 @@
 {
     "name": "Destroyers Hack Bot",
-    "description": "A bot CAN DO ANYTHING Deployable on heroku made by CODEX_MADARA",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by DST_MADARA",
     "logo": "https://te.legra.ph/file/a9c788514f8dc6a1b7610.jpg",
     "keywords": [
         "TELETHON",
@@ -10,7 +10,7 @@
         "CODEX_MADARA"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/CODEX_MADARA",
+    "success_url": "https://telegram.dog/DST_MADARA",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
